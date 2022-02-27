@@ -124,34 +124,6 @@ def connectDB():
     continents = db.continents
     printCountries()
     printContinents()
-    #createContinent()
-    #updateCountry("6217cd47fffc4c4a9894a409", {
-     #   "population": 5000
-    #})
-
-    findCountryBiggerThan()
-
-
-    #createCountry('Polonia', 'P')
-
-    #findCountryByLettes()
-    #linkCountryToContinent("Africa", "Africa do Sul")
-
-    #for continent in continents.find():
-      #  print(continent['name'])
-     #   print(continent['countries'])
-
-
-
-
-
-
-
-
-    # Question 02
-
-
-
 
 
 if __name__ == '__main__':
